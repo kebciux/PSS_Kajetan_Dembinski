@@ -1,0 +1,37 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Wiedźmin: Ostatnie życzenie",
+      "author": "Andrzej Sapkowski",
+      "year": 1993,
+      "genre": "Fantasy",
+      "price": 39.99
+    },
+    {
+      "id": 2,
+      "title": "Pan Tadeusz",
+      "author": "Adam Mickiewicz",
+      "year": 1834,
+      "genre": "Poemat",
+      "price": 24.50
+    },
+    {
+      "id": 3,
+      "title": "Solaris",
+      "author": "Stanisław Lem",
+      "year": 1961,
+      "genre": "Science Fiction",
+      "price": 29.90
+    },
+    {
+      "id": 4,
+      "title": "Harry Potter i Kamień Filozoficzny",
+      "author": "J.K. Rowling",
+      "year": 1997,
+      "genre": "Fantasy",
+      "price": 45.00
+    }
+  ],
+  "next_id": 5
+}
